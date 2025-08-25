@@ -1,1 +1,1 @@
-# typeorm-tree-entities
+# IN adjacecny list we can't get recursive data we need to use recursive query 
